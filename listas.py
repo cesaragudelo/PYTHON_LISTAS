@@ -15,3 +15,8 @@ Estudiantes.sort()
 print('todos los estudiantes de la lista son: ',Estudiantes)
 
 
+Modulo=('nuevas tec','programacion avanza','moviles 3')
+print('modulos del programa',Modulo)
+print('primer modulo del programa',Modulo[0])
+
+
